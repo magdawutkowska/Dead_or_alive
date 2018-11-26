@@ -1,0 +1,839 @@
+OTU_NCBI	Taxonomy_assignment_database	Phylum	Class	Order	Base_for_functional_assignment	Functional_assignment	Assignment_taxrank	Trophic_mode	Simplified_Trophic_mode	Guild	Confidence ranking	Growth form	Trait
+OTU_0	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_acutus|HQ604674|SH222527.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_1	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_pseudocandelaris|EU292225|SH222340.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_10	UNITE	Ascomycota	Leotiomycetes	Helotiales	Meliniomyces_vraolstadiae|UDB020557|SH181081.07FU|reps|	FunGuild	Species	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Dark Septate Endophyte	NULL
+OTU_100	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Agaricales_sp|KC966059|SH184486.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_101	UNITE	Basidiomycota	NA	NA	Basidiomycota_sp|KC965285|SH031681.07FU|reps_singleton|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_102	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Sistotrema_sp|UDB020385|SH486883.07FU|reps_singleton|	FunGuild	Genus	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Wood Saprotroph	Possible	Corticioid	White Rot
+OTU_103	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacina_sp|GU452516|SH103784.07FU|refs_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal-Orchid Mycorrhizal-Root Associated Biotroph	Possible	NULL	NULL
+OTU_104	NCBI	Basidiomycota	NA	NA	uncultured Basidiomycota	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_105	UNITE	Basidiomycota	Leucosporadiales	Leucosporidiales	Leucosporidiales_sp|KC884310|SH193775.07FU|reps|	literature	Order	Pathotroph	Pathotroph	NULL	NULL	NULL	NULL
+OTU_106	UNITE	NA	NA	NA	Cercozoa_sp|UDB013444|SH478364.07FU|reps_singleton|	literature	NULL	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_107	NCBI	NA	NA	NA	uncultured fungus clone FMOTU_2669	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_109	NCBI	NA	NA	NA	Uncultured Basidiomycota isolate soil	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_11	UNITE	Ascomycota	Sordariomycetes	NA	Sordariomycetes_sp|EU326165|SH174616.07FU|reps|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_110	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycena_sp|KU861557|SH220752.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Leaf Saprotroph-Plant Pathogen-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	NULL
+OTU_111	UNITE	NA	NA	NA	Fungi_sp|KU559675|SH496013.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_112	UNITE	Ascomycota	Dothideomycetes	Venturiales	Venturia_sp|HQ212036|SH174561.07FU|reps|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	NULL	NULL
+OTU_113	UNITE	Ascomycota	Dothideomycetes	Venturiales	Venturia_sp|FJ553066|SH219610.07FU|reps|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	NULL	NULL
+OTU_114	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Stagonospora_pseudovitensis|KF251261|SH182977.07FU|refs|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	Microfungus	NULL
+OTU_115	UNITE	Ascomycota	Dothideomycetes	NA	Dothideomycetes_sp|KF617742|SH015434.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_116	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Pleosporales_sp|KT203181|SH186988.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_117	UNITE	Ascomycota	Dothideomycetes	NA	Dothideomycetes_sp|KF297266|SH462915.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_118	NCBI	Ascomycota	Dothideomycetes	NA	Uncultured Dothideomycetes isolate soil	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_119	UNITE	NA	NA	NA	Fungi_sp|KF296898|SH024278.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_12	UNITE	Ascomycota	Dothideomycetes	Capnodiales	Neodevriesia_capensis|JN712501|SH188194.07FU|reps|	FunGuild	Genus (as Teratosphaeria)	Pathotroph-Saprotroph	unassigned	Plant Pathogen - Wood Saprotroph	Probable	NULL	NULL
+OTU_120	UNITE	Ascomycota	Dothideomycetes	Dothideales	Endoconidioma_populi|KT824245|SH206435.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_121	UNITE	Ascomycota	Lecanoromycetes	NA	Lecanoromycetes_sp|KF617536|SH462908.07FU|reps_singleton|	literature	Class	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_122	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Torula_sp|MF034135|SH628863.07FU|reps_singleton|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Endophyte-Plant Pathogen-Wood Saprotroph	Probable	NULL	Soft Rot
+OTU_123	UNITE	Ascomycota	NA	NA	Ascomycota_sp|UDB020721|SH486463.07FU|reps_singleton|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_124	UNITE	Ascomycota	Sordariomycetes	NA	Sordariomycetes_sp|HQ445274|SH000332.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_125	UNITE	Ascomycota	Sordariomycetes	NA	Sordariomycetes_sp|HQ445274|SH000332.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_126	UNITE	Ascomycota	Sordariomycetes	NA	Sordariomycetes_sp|HQ445274|SH000332.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_127	UNITE	Ascomycota	Sordariomycetes	NA	Sordariomycetes_sp|JQ666458|SH475634.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_128	UNITE	Ascomycota	Sordariomycetes	NA	Sordariomycetes_sp|KC965456|SH469278.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_129	UNITE	Ascomycota	Sordariomycetes	NA	Sordariomycetes_sp|HQ445274|SH000332.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_13	UNITE	Ascomycota	Sordariomycetes	Sordariales	Sordariales_sp|KC965644|SH216713.07FU|reps|	literature	Order	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_130	UNITE	Ascomycota	Sordariomycetes	NA	Sordariomycetes_sp|HQ445274|SH000332.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_131	UNITE	NA	NA	NA	Fungi_sp|KU559746|SH493963.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_132	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_ohenojae|KJ399955|SH219823.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_133	UNITE	Ascomycota	Leotiomycetes	NA	Leotiomycetes_sp|KF617797|SH203042.07FU|reps|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_134	UNITE	Ascomycota	Leotiomycetes	NA	Leotiomycetes_sp|HQ445518|SH209860.07FU|reps|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_135	UNITE	Ascomycota	Leotiomycetes	Helotiales	Rhizoscyphus_sp|KC965709|SH174328.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph-Symbiotroph	unassigned	Bryophyte Parasite-Ectomycorrhizal-Ericoid Mycorrhizal-Undefined Saprotroph	Possible	Microfungus; Dark Septate Microfungus	NULL
+OTU_136	UNITE	NA	NA	NA	Fungi_sp|KF274324|SH211654.07FU|reps|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_137	UNITE	Ascomycota	Orbiliomycetes	Orbiliales	Lecophagus_longisporus|KT215220|SH493798.07FU|reps_singleton|	literature	Species	Pathotroph	Pathotroph	Animal Pathogen	NULL	NULL	NULL
+OTU_138	UNITE	Ascomycota	Sordariomycetes	Xylariales	Microdochium_lycopodinum|JF440979|SH112161.07FU|refs|	FunGuild	Genus	Pathotroph-Symbiotroph	unassigned	Endophyte-Plant Pathogen	Possible	Dark Septate Endophyte	NULL
+OTU_139	UNITE	Basidiomycota	Agaricomycetes	Auriculariales	Auriculariales_sp|KF297136|SH027016.07FU|reps_singleton|	literature	Order	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_14	UNITE	Ascomycota	Sordariomycetes	NA	Sordariomycetes_sp|HQ211951|SH212624.07FU|reps|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_140	UNITE	Basidiomycota	Agaricomycetes	Auriculariales	Auriculariales_sp|HQ212227|SH200597.07FU|reps|	literature	Order	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_141	UNITE	Basidiomycota	Agaricomycetes	Auriculariales	Auricularia_mesenterica|UDB019552|SH194584.07FU|refs|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Plant Parasite-Wood Saprotroph	Probable	Auriculariod	NULL
+OTU_142	UNITE	NA	NA	NA	Fungi_sp|KC457224|SH204584.07FU|reps|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_143	NCBI	Basidiomycota	Tremellomycetes	Tremellales	Uncultured Tremellales clone	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_144	NCBI	Basidiomycota	Tremellomycetes	Tremellales	Uncultured Tremellales clone	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_145	UNITE	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcus_sp|KU057816|SH211685.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph-Symbiotroph	unassigned	Animal Pathogen-Endophyte-Epiphyte-Undefined Saprotroph	Possible	Yeast	NULL
+OTU_146	UNITE	Basidiomycota	Tremellomycetes	Tremellales	Tremellales_sp|EU726330|SH005168.07FU|reps_singleton|	FunGuild	Order	Pathotroph-Saprotroph-Symbiotroph	unassigned	Fungal Parasite-Undefined Saprotroph	Possible	Tremelloid-Yeast	NULL
+OTU_147	UNITE	Basidiomycota	Tremellomycetes	Tremellales	Tremellales_sp|JF449478|SH181989.07FU|refs|	FunGuild	Order	Pathotroph-Saprotroph-Symbiotroph	unassigned	Fungal Parasite-Undefined Saprotroph	Possible	Tremelloid-Yeast	NULL
+OTU_148	UNITE	Basidiomycota	Tremellomycetes	Tremellales	Tremellales_sp|AJ581037|SH004914.07FU|reps_singleton|	FunGuild	Order	Pathotroph-Saprotroph-Symbiotroph	unassigned	Fungal Parasite-Undefined Saprotroph	Possible	Tremelloid-Yeast	NULL
+OTU_149	UNITE	Basidiomycota	Tremellomycetes	Tremellales	Fellomyces_sp|JQ861271|SH001468.07FU|reps_singleton|	literature	Genus	Saprotroph	Saprotroph	NULL	NULL	yeast	NULL
+OTU_15	UNITE	Ascomycota	Sordariomycetes	Sordariales	Sordariales_sp|KF617590|SH212904.07FU|reps|	literature	Order	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_150	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Tulasnellaceae_sp|KC966150|SH031189.07FU|reps_singleton|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_151	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Lecanorales_sp|FJ554208|SH458211.07FU|reps_singleton|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_152	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Lecanorales_sp|KC965546|SH021261.07FU|reps_singleton|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_153	UNITE	Ascomycota	Leotiomycetes	Helotiales	Pezoloma_ciliifera|KC412000|SH184437.07FU|refs|	FunGuild	Species	Saprotroph	Saprotroph	Wood Saprotroph	Highly Probable	Microfungus	NULL
+OTU_154	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Ceratobasidiaceae_sp|GU083181|SH196456.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph-Symbiotroph	unassigned	Endomycorrhizal-Plant Pathogen-Undefined Saprotroph	Possible	Microfungus	NULL
+OTU_155	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Ceratobasidiaceae_sp|AJ242895|SH186397.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph-Symbiotroph	unassigned	Endomycorrhizal-Plant Pathogen-Undefined Saprotroph	Possible	Microfungus	NULL
+OTU_156	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Ceratobasidiaceae_sp|EU516900|SH090394.07FU|refs_singleton|	FunGuild	Family	Pathotroph-Saprotroph-Symbiotroph	unassigned	Endomycorrhizal-Plant Pathogen-Undefined Saprotroph	Possible	Microfungus	NULL
+OTU_157	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Ceratobasidiaceae_sp|EU516903|SH007432.07FU|reps_singleton|	FunGuild	Family	Pathotroph-Saprotroph-Symbiotroph	unassigned	Endomycorrhizal-Plant Pathogen-Undefined Saprotroph	Possible	Microfungus	NULL
+OTU_158	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Ceratobasidiaceae_sp|JX630384|SH022835.07FU|reps_singleton|	FunGuild	Family	Pathotroph-Saprotroph-Symbiotroph	unassigned	Endomycorrhizal-Plant Pathogen-Undefined Saprotroph	Possible	Microfungus	NULL
+OTU_159	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_diasemospermus|UDB001230|SH188470.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_16	UNITE	Ascomycota	Lecanoromycetes	Teloschistales	Parvoplaca_athallina|KC966229|SH211549.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Probable	Thallus	NULL
+OTU_160	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacina_sp|KF618000|SH214636.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal-Orchid Mycorrhizal-Root Associated Biotroph	Possible	NULL	NULL
+OTU_161	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacina_sp|UDB017183|SH214705.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal-Orchid Mycorrhizal-Root Associated Biotroph	Possible	NULL	NULL
+OTU_162	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|HQ211712|SH180002.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_163	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|EU292272|SH180007.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_164	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|HQ445451|SH003900.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_165	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|KF617695|SH180027.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_166	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Membranomyces_sp|HQ444973|SH222266.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	NULL	NULL
+OTU_167	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Clavulina_coralloides|HQ215767|SH191174.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Clavarioid	NULL
+OTU_168	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Clavulinaceae_sp|LC035136|SH527207.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Lichenized-Wood Saprotroph	Highly Probable	Clavarioid	NULL
+OTU_169	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Clavulinaceae_sp|HQ444977|SH179200.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Lichenized-Wood Saprotroph	Highly Probable	Clavarioid	NULL
+OTU_17	UNITE	Ascomycota	Pezizomycetes	Pezizales	Geopora_nicaeensis|JF908022|SH213659.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	NULL	NULL
+OTU_170	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Clavulinaceae_sp|HF675417|SH482172.07FU|reps_singleton|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Lichenized-Wood Saprotroph	Highly Probable	Clavarioid	NULL
+OTU_171	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Clavulinaceae_sp|HQ444977|SH179200.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Lichenized-Wood Saprotroph	Highly Probable	Clavarioid	NULL
+OTU_172	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Clavulinaceae_sp|LC035136|SH527207.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Lichenized-Wood Saprotroph	Highly Probable	Clavarioid	NULL
+OTU_173	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KC966006|SH221281.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_174	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Lecanorales_sp|KC966060|SH024304.07FU|reps_singleton|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_175	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Polyblastia_sp|EU559739|SH211172.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_176	NCBI	Basidiomycota	Agaricomycetes	Thelephorales	Uncultured Thelephorales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_177	NCBI	Basidiomycota	Agaricomycetes	Thelephorales	Uncultured Thelephorales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_178	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephora_caryophyllea|UDB000212|SH189359.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Clavarioid	NULL
+OTU_179	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephora_sp|FJ378792|SH189708.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Clavarioid	NULL
+OTU_18	UNITE	Ascomycota	Pezizomycetes	Pezizales	Geopora_sp|JX630546|SH213663.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	NULL	NULL
+OTU_180	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|UDB013534|SH184624.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_181	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephora_sp|LC035327|SH184603.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Clavarioid	NULL
+OTU_182	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|UDB016173|SH177894.07FU|reps|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_183	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_maculipes|UDB027281|SH202671.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_184	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|JX630837|SH184560.07FU|reps|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_185	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|UDB027247|SH177827.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_186	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Clavariaceae_sp|HQ211947|SH196066.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Lichenized-Undefined Saprotroph	Probable	Clavarioid	NULL
+OTU_187	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Agaricales_sp|AB520595|SH198923.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_188	NCBI	Basidiomycota	Agaricomycetes	Agaricales	Uncultured Clavariaceae	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Lichenized-Undefined Saprotroph	Probable	Clavarioid	NULL
+OTU_189	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Agaricales_sp|AB520595|SH198923.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_19	UNITE	Ascomycota	Pezizomycetes	Pezizales	Geopora_sp|JQ890264|SH213682.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	NULL	NULL
+OTU_190	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|KF617469|SH188126.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_191	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Clavariaceae_sp|KP889858|SH491074.07FU|reps_singleton|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Lichenized-Undefined Saprotroph	Probable	Clavarioid	NULL
+OTU_192	UNITE	NA	NA	NA	Fungi_sp|AM260830|SH015127.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_193	UNITE	Rozellomycota	NA	NA	Rozellomycota_sp|KC965937|SH016828.07FU|reps_singleton|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_194	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|JF304339|SH187318.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_195	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Lecanicillium_sp|FJ490755|SH212462.07FU|reps|	FunGuild	Genus	Pathotroph	Pathotroph	Animal Pathogen	Probable	NULL	NULL
+OTU_196	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|JF304353|SH184623.07FU|reps|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_197	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ445188|SH189361.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_198	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ215806|SH177870.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_199	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_badia|JQ711987|SH177828.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_2	UNITE	Ascomycota	Geoglossomycetes	Geoglossales	Nothomitra_cinnamomea|JQ256424|SH025748.07FU|reps_singleton|	FunGuild	Genus (as Microglossum)	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_20	UNITE	Ascomycota	Pezizomycetes	Pezizales	Geopora_sp|UDB027272|SH213802.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	NULL	NULL
+OTU_200	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_fuscocinerea|UDB005497|SH184521.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_201	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|KF514719|SH177855.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_202	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ215823|SH189465.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_203	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|JQ393142|SH177826.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_204	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|UDB009861|SH177914.07FU|reps|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_205	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|EU625892|SH184547.07FU|reps|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_206	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_terrestris|UDB003315|SH189365.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_207	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|AB700457|SH185252.07FU|reps|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_208	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|KC791133|SH010136.07FU|reps_singleton|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_209	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|JX630358|SH177862.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_21	UNITE	Ascomycota	NA	NA	Ascomycota_sp|KF800345|SH205786.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_210	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|EF619803|SH189559.07FU|reps|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_211	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|UDB031755|SH184738.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_212	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ445368|SH184523.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_213	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ215817|SH184552.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_214	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|KC965640|SH189565.07FU|reps|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_215	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|AY969823|SH179214.07FU|reps|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_216	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Odontia_fibrosa|UDB018489|SH179213.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Corticioid	NULL
+OTU_217	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_muricellata|UDB027275|SH219956.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_218	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Cladophialophora_sp|KM056295|SH497281.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Facultative Yeast	NULL
+OTU_219	UNITE	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcus_sp|HG324303|SH015442.07FU|reps_singleton|	FunGuild	Genus	Pathotroph-Saprotroph-Symbiotroph	unassigned	Animal Pathogen-Endophyte-Epiphyte-Undefined Saprotroph	Possible	Yeast	NULL
+OTU_22	UNITE	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae_sp|EF635654|SH188326.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_220	UNITE	Basidiomycota	Tremellomycetes	NA	Tremellomycetes_sp|KY104664|SH188237.07FU|reps|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_221	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ215814|SH217479.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_222	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|EF218826|SH184516.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_223	UNITE	Basidiomycota	Agaricomycetes	Tremellodendropsidales	Tremellodendropsidales_sp|KF617656|SH032195.07FU|reps_singleton|	FunGuild	Genus (this order consists of single genus)	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_224	UNITE	Basidiomycota	Agaricomycetes	Tremellodendropsidales	Tremellodendropsidales_sp|KC965468|SH221140.07FU|reps|	FunGuild	Genus (this order consists of single genus)	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_225	UNITE	Rozellomycota	NA	Rozellomycotina_cls_Incertae_sedis	GS04_sp|UDB014657|SH489227.07FU|reps_singleton|	literature	NA	Pathotroph	Pathotroph	NULL	NULL	NULL	NULL
+OTU_226	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Cladophialophora_humicola|KC457267|SH193233.07FU|reps|	literature	Species	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_227	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|KC456719|SH193246.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_228	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Sistotrema_oblongisporum|KF218970|SH007383.07FU|reps_singleton|	FunGuild	Genus	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Wood Saprotroph	Possible	Corticioid	White Rot
+OTU_229	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|HQ215832|SH184617.07FU|reps|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_23	UNITE	NA	NA	NA	Fungi_sp|KC966238|SH022683.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_230	UNITE	Ascomycota	Lecanoromycetes	Ostropales	Ostropales_sp|KC965526|SH193196.07FU|reps|	literature	Order	symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_231	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|KC965871|SH205654.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_232	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ445323|SH189376.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_233	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|JF304372|SH177843.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_234	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ215826|SH010065.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_235	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|KC965966|SH222178.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_236	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|JF304358|SH217476.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_237	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|JX630547|SH177824.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_238	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ215807|SH177967.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_239	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|UDB026727|SH189528.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_24	UNITE	Ascomycota	Leotiomycetes	Helotiales	Pezoloma_ciliifera|KC412000|SH184437.07FU|refs|	FunGuild	Species	Saprotroph	Saprotroph	Wood Saprotroph	Highly Probable	Microfungus	NULL
+OTU_240	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ215815|SH184533.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_241	UNITE	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Mrakia_frigida|AF144483|SH202458.07FU|refs|	literature	Species	Pathotroph	Pathotroph	NULL	NULL	NULL	NULL
+OTU_242	UNITE	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Mrakia_frigida|AF144483|SH202458.07FU|refs|	literature	Species	Pathotroph	Pathotroph	NULL	NULL	NULL	NULL
+OTU_243	UNITE	NA	NA	NA	Fungi_sp|KC966029|SH012609.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_244	UNITE	NA	NA	NA	Fungi_sp|KU559736|SH522139.07FU|reps|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_245	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|FJ554329|SH208595.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_246	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Rhinocladiella_sp|KC965542|SH016648.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph-Wood Saprotroph	Probable	Facultative Yeast	Soft Rot
+OTU_247	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|UDB020528|SH012612.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_248	UNITE	NA	NA	NA	Fungi_sp|KU559736|SH522139.07FU|reps|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_249	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucaria_alpicola|KM243179|SH533246.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_25	UNITE	Ascomycota	Leotiomycetes	NA	Leotiomycetes_sp|EF433993|SH201367.07FU|reps|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_250	UNITE	Ascomycota	Dothideomycetes	Capnodiales	Capnodiales_sp|KC965858|SH019197.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_251	UNITE	Ascomycota	Dothideomycetes	Capnodiales	Capnodiales_sp|KC965669|SH027346.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_252	UNITE	Ascomycota	Dothideomycetes	Capnodiales	Capnodiales_sp|KF815640|SH214164.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_253	NCBI	Ascomycota	Dothideomycetes	Capnodiales	Uncultured Capnodiales clone	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_254	UNITE	Ascomycota	Dothideomycetes	NA	Dothideomycetes_sp|KC965568|SH021464.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_255	UNITE	Ascomycota	Dothideomycetes	Capnodiales	Friedmanniomyces_sp|KF815637|SH214188.07FU|reps|	literature	Genus	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_256	UNITE	Basidiomycota	Agaricomycetes	Russulales	Lactarius_luridus|UDB025641|SH176417.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_257	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|HQ215788|SH215629.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_258	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Ramariopsis_sp|HQ222032|SH190012.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Clavarioid	NULL
+OTU_259	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Hebeloma_erebium|KT218429|SH215998.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_26	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|HQ211871|SH184433.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_260	UNITE	NA	NA	NA	Fungi_sp|KP238196|SH491858.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_261	NCBI	Basidiomycota	Agaricomycetes	Agaricales	Uncultured Agaricales	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_262	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Agaricales_sp|JF908497|SH192005.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_263	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Agaricales_sp|GU083076|SH198924.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_264	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycetinis_querceus|UDB011763|SH184048.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_265	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|FJ378770|SH485987.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_266	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Agaricales_sp|UDB027672|SH218855.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_267	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Agaricales_sp|UDB027672|SH218855.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_268	NCBI	NA	NA	NA	Uncultured fungus	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_269	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Hemimycena_pseudolactea|UDB017907|SH487408.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_27	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|HQ445019|SH184451.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_270	NCBI	Basidiomycota	Agaricomycetes	Agaricales	Uncultured Agaricales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_271	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Arrhenia_chlorocyanea|U66456|SH478826.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_272	UNITE	NA	NA	NA	Fungi_sp|KC965795|SH465505.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_273	NCBI	NA	NA	NA	Cercomonas lata strain C-85	none	NA	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_274	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Crepidotus_sp|AY969374|SH464966.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Wood Saprotroph	Highly Probable	Agaricoid	NULL
+OTU_275	NCBI	Basidiomycota	Agaricomycetes	Agaricales	Uncultured Agaricales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_276	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Hymenogaster_sp|UDB027375|SH526165.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Possible	Gasteroid	Hypogeous
+OTU_277	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Hebelomataceae_sp|AM711491|SH030754.07FU|reps_singleton|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_278	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_diasemospermus|UDB001230|SH188470.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_279	NCBI	Basidiomycota	Agaricomycetes	Agaricales	Uncultured Agaricales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_28	UNITE	Ascomycota	Leotiomycetes	Helotiales	Cadophora_finlandica|AF486119|SH214265.07FU|refs|	FunGuild	Species	Symbiotroph	Symbiotroph	Endophyte	Highly Probable	Microfungus	NULL
+OTU_280	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_diasemospermus|UDB001230|SH188470.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_281	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Hebelomataceae_sp|AM711491|SH030754.07FU|reps_singleton|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_282	UNITE	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniales_sp|AB520435|SH020483.07FU|reps_singleton|	literature	Order	Pathotroph	Pathotroph	Plant Pathogen	NULL	NULL	NULL
+OTU_283	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ215833|SH205658.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_284	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|HQ215833|SH205658.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_285	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KF617659|SH203524.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_286	NCBI	NA	NA	NA	Uncultured eukaryote isolate soil	literature	NA	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_287	NCBI	NA	NA	NA	Uncultured eukaryote isolate soil	literature	NA	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_288	NCBI	Basidiomycota	Agaricomycetes	Cantharellales	Uncultured Cantharellales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_289	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Tulasnellaceae_sp|KC455339|SH178360.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_29	UNITE	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae_sp|HQ211922|SH004625.07FU|reps_singleton|	FunGuild	Family	Saprotroph	Saprotroph	Plant Saprotroph-Wood Saprotroph	Probable	Microfungus	NULL
+OTU_290	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae_sp|UDB011154|SH218326.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_291	UNITE	Ascomycota	Pezizomycetes	Pezizales	Pulvinula_sp|UDB032992|SH210657.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Possible	NULL	NULL
+OTU_292	UNITE	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae_sp|EF417800|SH486498.07FU|reps_singleton|	literature	Family	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_293	UNITE	Ascomycota	Pezizomycetes	Pezizales	Tricharina_sp|GU327420|SH024748.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_294	UNITE	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae_sp|JX630941|SH198961.07FU|reps|	literature	Order	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_295	UNITE	Ascomycota	Pezizomycetes	Pezizales	Tricharina_sp|GU327420|SH024748.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_296	UNITE	Ascomycota	Pezizomycetes	Pezizales	Tricharina_sp|KC965942|SH024749.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_297	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|HQ215794|SH188066.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_298	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_bulbosissima|FJ904158|SH183292.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_299	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_catalaunica|KJ399884|SH219805.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_3	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Drechmeria_coniospora|AF106018|SH007118.07FU|reps_singleton|	literature	Species	Pathotroph	Pathotroph	NULL	NULL	NULL	NULL
+OTU_30	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KF617608|SH016535.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_300	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_giacomi|AM882742|SH194465.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_301	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|HQ445236|SH179834.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_302	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|AM882899|SH031341.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_303	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_phaeocystidiosa|JF304399|SH200843.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_304	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|KF617613|SH004107.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_305	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_griseolilacina|HQ604115|SH190790.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_306	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_flavella|AM882782|SH222039.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_307	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_proximella|JN580847|SH194466.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_308	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|DQ822811|SH176522.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_309	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|JF304409|SH030315.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_31	UNITE	Ascomycota	Leotiomycetes	NA	Leotiomycetes_sp|KF617342|SH024223.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_310	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|JX630900|SH009085.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_311	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|JX630664|SH219955.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_312	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_leucoloma|GU980615|SH209539.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_313	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_lacera|HQ215795|SH219806.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_314	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|FJ378769|SH183293.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_315	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|JX630508|SH198506.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_316	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|JF304409|SH030315.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_317	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|UDB027243|SH530106.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_318	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|JX630405|SH031689.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_319	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|HQ204682|SH219988.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_32	UNITE	Ascomycota	Leotiomycetes	Helotiales	Cadophora_sp|KF428527|SH008258.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Endophyte	Highly Probable	Microfungus	NULL
+OTU_321	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_amethystina|JF908123|SH219984.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_322	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|UDB027243|SH530106.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_324	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae_sp|HF675337|SH629665.07FU|reps_singleton|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_325	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_arthrocystis|FN550941|SH210565.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_326	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_griseolilacina|HQ604115|SH190790.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_327	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_giacomi|AM882742|SH194465.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_328	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_lindrothii|KJ399915|SH132137.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_329	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|FN565212|SH217841.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_33	UNITE	Ascomycota	Leotiomycetes	Helotiales	Hyaloscypha_sp|KJ663835|SH495761.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_330	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC966354|SH023345.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_331	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|AB847061|SH029987.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_332	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC966354|SH023345.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_333	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|FN298754|SH217843.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_334	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC966354|SH023345.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_335	UNITE	Basidiomycota	Agaricomycetes	Russulales	Russula_chloroides|HQ445395|SH220517.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_336	UNITE	Basidiomycota	Agaricomycetes	Russulales	Russula_olivobrunnea|UDB011113|SH187355.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_337	UNITE	Basidiomycota	Agaricomycetes	Russulales	Russula_pascua|JX436947|SH176550.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_338	UNITE	Basidiomycota	Agaricomycetes	Russulales	Russula_emetica|UDB000300|SH218421.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_339	UNITE	Basidiomycota	Agaricomycetes	Russulales	Russula_chloroides|HQ445395|SH220517.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_34	UNITE	Ascomycota	Leotiomycetes	Helotiales	Alatospora_sp|GU174333|SH006775.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_340	UNITE	Basidiomycota	Agaricomycetes	Russulales	Russula_emetica|UDB000300|SH218421.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_341	UNITE	Basidiomycota	Agaricomycetes	Russulales	Russula_chloroides|HQ445395|SH220517.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_342	UNITE	Basidiomycota	Agaricomycetes	Russulales	Russula_emetica|UDB000300|SH218421.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_343	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_borealis|JN580813|SH188121.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_344	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Agaricales_sp|KP889600|SH184078.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_345	UNITE	Basidiomycota	Agaricomycetes	Trechisporales	Trechisporales_sp|FJ553339|SH188950.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_346	UNITE	Basidiomycota	Agaricomycetes	NA	Agaricomycetes_sp|KC965129|SH009600.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_347	UNITE	Basidiomycota	Malasseziomycetes	Leucosporidiales	Malassezia_restricta|AY743636|SH176394.07FU|refs|	FunGuild	Species	Pathotroph	Pathotroph	Animal Pathogen	Probable	NULL	NULL
+OTU_348	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_casimiri|FN429013|SH188471.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_349	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KM580039|SH203614.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_35	UNITE	Ascomycota	Geoglossomycetes	Geoglossales	Sarcoleotia_sp|EF434043|SH025749.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_350	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|HQ850118|SH179094.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_351	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinales_sp|KC965641|SH461571.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_352	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinales_sp|KC965641|SH461571.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_353	UNITE	NA	NA	NA	Fungi_sp|KC965397|SH205958.07FU|reps|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_354	UNITE	Basidiomycota	Microbotryomycetes	NA	Microbotryomycetes_sp|KF617787|SH021489.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_355	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycenaceae_sp|KF297008|SH467584.07FU|reps_singleton|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_356	UNITE	Ascomycota	Leotiomycetes	Helotiales	Gyoerffyella_entomobryoides|KC834056|SH184432.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_357	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_acutoides|JN580806|SH188124.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_358	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinales_sp|EU910920|SH188803.07FU|refs|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_359	UNITE	Basidiomycota	Agaricomycetes	Auriculariales	Auriculariales_sp|FJ237097|SH024177.07FU|reps_singleton|	literature	Order	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_36	UNITE	NA	NA	NA	Fungi_sp|KF274324|SH211654.07FU|reps|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_360	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_borealis|JN580813|SH188121.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_361	UNITE	NA	NA	NA	Fungi_sp|KF297028|SH022904.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_362	UNITE	NA	NA	NA	Fungi_sp|KF297028|SH022904.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_363	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycena_albidoaquosa|LC013373|SH220718.07FU|reps|	FunGuild	Species	Saprotroph	Saprotroph	Leaf Saprotroph	Probable	Agaricoid	NULL
+OTU_364	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycena_cinerella|GU234146|SH220744.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Leaf Saprotroph-Plant Pathogen-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	NULL
+OTU_365	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Agaricales_sp|JF519474|SH223367.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_366	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycena_olida|KF499358|SH178373.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Leaf Saprotroph-Plant Pathogen-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	NULL
+OTU_367	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycena_flavoalba|JF908464|SH221339.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Leaf Saprotroph-Plant Pathogen-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	NULL
+OTU_368	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycena_maurella|JQ666685|SH178370.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Leaf Saprotroph-Plant Pathogen-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	NULL
+OTU_369	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycena_metata|UDB015412|SH220724.07FU|refs|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Leaf Saprotroph-Plant Pathogen-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	NULL
+OTU_37	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KP889837|SH495002.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_371	UNITE	Basidiomycota	Tremellomycetes	Tremellales	Tremellales_sp|FR718483|SH005164.07FU|reps_singleton|	FunGuild	Order	Pathotroph-Saprotroph-Symbiotroph	unassigned	Fungal Parasite-Undefined Saprotroph	Possible	Tremelloid-Yeast	NULL
+OTU_372	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KC965406|SH012736.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_373	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Lycoperdon_niveum|DQ112568|SH078531.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Gasteroid	NULL
+OTU_374	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|KU176247|SH177848.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_375	UNITE	Basidiomycota	Tremellomycetes	NA	Tremellomycetes_sp|HQ267075|SH199444.07FU|refs|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_376	UNITE	Basidiomycota	Microbotryomycetes	NA	Microbotryomycetes_sp|KF617787|SH021489.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_377	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycena_maurella|JQ666685|SH178370.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Leaf Saprotroph-Plant Pathogen-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	NULL
+OTU_378	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Tolypocladium_cylindrosporum|U35285|SH184964.07FU|reps|	FunGuild	Genus	Pathotroph-Symbiotroph	unassigned	Animal Pathogen-Clavicipitaceous Endophyte-Fungal Parasite	Possible	NULL	NULL
+OTU_379	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Agonimia_repleta|JF509161|SH014403.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_38	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|AY354269|SH218118.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_380	NCBI	Chytridiomycota	Neocallimastigomycetes	Neocallimastigales	Uncultured Neocallimastigales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_381	UNITE	Ascomycota	Sordariomycetes	Xylariales	Amphisphaeriaceae_sp|JQ759638|SH206671.07FU|reps|	FunGuild	Family	Saprotroph	Saprotroph	Undefined Saprotroph	Possible	NULL	NULL
+OTU_382	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Lecania_sp|KC965389|SH211254.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_383	UNITE	Ascomycota	Lecanoromycetes	Caliciales	Rinodina_olivaceobrunnea|KC965722|SH217517.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_384	UNITE	Basidiomycota	Agaricomycetes	Polyporales	Uncobasidium_sp|AB596015|SH221374.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_385	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinales_sp|KJ188464|SH525713.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_386	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|KC965326|SH018593.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_387	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|KF618028|SH003906.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_388	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|EU292272|SH180007.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_389	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinales_sp|FJ788842|SH199329.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_39	NCBI	Ascomycota	Leotiomycetes	Helotiales	Uncultured Helotiales	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_390	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinales_sp|EU909216|SH197533.07FU|refs|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_391	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|AB476493|SH179097.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_392	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|FJ553503|SH180011.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_393	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|EF434118|SH180025.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_394	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|KF296897|SH192997.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_395	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|UDB008509|SH179999.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_396	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|KC456855|SH179995.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_397	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinaceae_sp|HQ154321|SH192987.07FU|refs|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_398	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|AB476493|SH179097.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_399	NCBI	Basidiomycota	Agaricomycetes	Sebacinales	Uncultured Sebacinales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_4	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Hypocreales_sp|KF296912|SH205446.07FU|reps|	FunGuild	Order	Saprotroph	Saprotroph	Undefined Saprotroph	Possible	Microfungus	NULL
+OTU_40	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|FM200709|SH019158.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_400	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|KF296897|SH192997.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_401	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|KF618028|SH003906.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_402	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|HQ154277|SH003903.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_403	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacina_sp|JX630438|SH214709.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal-Orchid Mycorrhizal-Root Associated Biotroph	Possible	NULL	NULL
+OTU_404	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Sistotrema_sp|EU516892|SH199652.07FU|reps|	FunGuild	Genus	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Wood Saprotroph	Possible	Corticioid	White Rot
+OTU_405	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_lapida|UDB001659|SH355813.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_406	UNITE	Basidiomycota	NA	NA	Basidiomycota_sp|JQ857032|SH213408.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_407	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|HQ211626|SH184448.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_408	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae_sp|KF660546|SH184474.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Fungal Parasite-Plant Pathogen-Wood Saprotroph	Probable	Microfungus	NULL
+OTU_409	UNITE	NA	NA	NA	Fungi_sp|KF617643|SH006771.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_41	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|EF619864|SH028067.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_410	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|UDB026703|SH219962.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_411	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|FR852162|SH177915.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_412	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|FJ904156|SH016085.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_413	UNITE	Basidiomycota	Microbotryomycetes	Sporidiobolales	Rhodotorula_sp|LT548265|SH523901.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Animal Endosymbiont-Undefined Saprotroph	Probable	NULL	NULL
+OTU_414	UNITE	Basidiomycota	Microbotryomycetes	Sporidiobolales	Rhodotorula_sp|LT548265|SH523901.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Animal Endosymbiont-Undefined Saprotroph	Probable	NULL	NULL
+OTU_415	UNITE	Ascomycota	Sordariomycetes	Sordariales	Sordariales_sp|KF297213|SH025105.07FU|reps_singleton|	literature	Order	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_416	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucariales_sp|KF296796|SH008651.07FU|reps_singleton|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_417	UNITE	Ascomycota	Leotiomycetes	Helotiales	Pezoloma_ciliifera|KC412000|SH184437.07FU|refs|	FunGuild	Species	Saprotroph	Saprotroph	Wood Saprotroph	Highly Probable	Microfungus	NULL
+OTU_418	UNITE	Ascomycota	Leotiomycetes	Helotiales	Hyaloscypha_sp|LC131020|SH641841.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_419	UNITE	Basidiomycota	Agaricomycetes	Hymenochaetales	Xylodon_detriticus|UDB024816|SH522655.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Corticioid	White Rot
+OTU_42	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|HQ212214|SH028233.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_420	UNITE	Mucoromycota	Endogonomycetes	Endogonales	Endogone_sp|KC152094|SH213348.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Probable	Gasteroid	Hypogeous
+OTU_421	UNITE	Mucoromycota	Endogonomycetes	Endogonales	Endogone_sp|KC152094|SH213348.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Probable	Gasteroid	Hypogeous
+OTU_422	UNITE	Mucoromycota	Endogonomycetes	Endogonales	Endogone_sp|KC152094|SH213348.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Probable	Gasteroid	Hypogeous
+OTU_423	UNITE	Mucoromycota	Endogonomycetes	Endogonales	Endogone_sp|KC152094|SH213348.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Probable	Gasteroid	Hypogeous
+OTU_424	UNITE	Ascomycota	Dothideomycetes	Mytilinidales	Cenococcum_geophilum|JQ347036|SH199614.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	NULL	NULL
+OTU_425	UNITE	Ascomycota	Dothideomycetes	Mytilinidales	Cenococcum_geophilum|KX510009|SH199612.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	NULL	NULL
+OTU_426	UNITE	Ascomycota	Pezizomycetes	Pezizales	Peziza_sp|GU817102|SH193720.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Possible	Cup Fungus	NULL
+OTU_427	UNITE	Ascomycota	NA	NA	Ascomycota_sp|AY969434|SH006557.07FU|reps_singleton|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_428	UNITE	Basidiomycota	Agaricomycetes	Russulales	Russula_griseascens|UDB016038|SH218422.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_429	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Hymenogaster_sp|FJ454914|SH030755.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Possible	Gasteroid	Hypogeous
+OTU_43	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|JF449544|SH194255.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_430	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Hebelomataceae_sp|JQ346821|SH218909.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_431	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|HQ446069|SH016650.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_432	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC965552|SH199279.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_433	UNITE	NA	NA	NA	Cercozoa_sp|HM240102|SH183251.07FU|reps|	literature	NULL	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_434	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_amoeboidea|HQ630346|SH183634.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_435	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_sp|KP889632|SH494909.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_436	NCBI	Mucoromycota	Mortiellomycetes	Mortierellales	Uncultured Mortierellales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_437	NCBI	Mucoromycota	Mortiellomycetes	Mortierellales	Uncultured Mortierellales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_438	NCBI	Mucoromycota	Mortiellomycetes	Mortierellales	Uncultured Mortierellales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_439	NCBI	Mucoromycota	Mortiellomycetes	Mortierellales	Uncultured Mortierellales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_44	UNITE	NA	NA	NA	Fungi_sp|KF296873|SH026979.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_440	UNITE	Ascomycota	Lecanoromycetes	Peltigerales	Psoroma_fruticulosum|KC456943|SH189260.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_441	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Cladonia_acuminata|FR695863|SH212231.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_442	UNITE	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae_sp|JQ346870|SH181489.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph-Symbiotroph	unassigned	Animal Pathogen-Dung Saprotroph-Endophyte-Lichen Parasite-Plant Pathogen-Undefined Saprotroph	Possible	Microfungus	NULL
+OTU_443	UNITE	Ascomycota	Geoglossomycetes	Geoglossales	Geoglossaceae_sp|FJ553147|SH025750.07FU|reps_singleton|	FunGuild	Family	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_444	UNITE	Ascomycota	Leotiomycetes	NA	Leotiomycetes_sp|HQ445438|SH460143.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_445	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|AJ292197|SH198112.07FU|refs|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_446	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_acutoides|JN580806|SH188124.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_447	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Clavulinaceae_sp|KF618036|SH003388.07FU|reps_singleton|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Lichenized-Wood Saprotroph	Highly Probable	Clavarioid	NULL
+OTU_448	UNITE	Olpidiomycota	Olpidiomycetes	Olpidiales	Olpidium_brassicae|AY997067|SH216672.07FU|refs|	FunGuild	Species	Pathotroph	Pathotroph	Plant Pathogen	Highly Probable	NULL	NULL
+OTU_449	UNITE	NA	NA	NA	Fungi_sp|KC965349|SH029303.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_45	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Cladophialophora_sp|KM056295|SH497281.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Facultative Yeast	NULL
+OTU_450	NCBI	Chytridiomycota	Chytridiomycetes	Lobulomycetales	Uncultured Lobulomycetales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_451	NCBI	Ascomycota	Lecanoromycetes	Pertusariales	Uncultured Pertusariales	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_452	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeria_sclerotioides|JF740192|SH206026.07FU|refs|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	NULL	NULL
+OTU_453	UNITE	Ascomycota	Lecanoromycetes	Teloschistales	Teloschistales_sp|KF296731|SH211546.07FU|reps|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_454	UNITE	Ascomycota	Leotiomycetes	Helotiales	Miniancora_allisoniensis|KC834064|SH018484.07FU|refs_singleton|	literature	Family	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_455	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Didymella_boeremae|FJ426982|SH245096.07FU|refs|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Plant Pathogen-Undefined Saprotroph	Probable	Microfungus	NULL
+OTU_456	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Capronia_sp|EU139154|SH207472.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Endophyte	Highly Probable	Facultative Yeast	NULL
+OTU_457	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC965900|SH183192.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_458	UNITE	NA	NA	NA	Fungi_sp|KC965324|SH012604.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_459	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|KC456680|SH193235.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_46	UNITE	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae_sp|GU393951|SH194259.07FU|reps|	FunGuild	Family	Saprotroph	Saprotroph	Plant Saprotroph-Wood Saprotroph	Probable	Microfungus	NULL
+OTU_460	UNITE	NA	NA	NA	Fungi_sp|KU559744|SH487975.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_461	UNITE	NA	NA	NA	Fungi_sp|KU559731|SH489679.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_462	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|KC456680|SH193235.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_463	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|FM997929|SH208599.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_464	UNITE	NA	NA	NA	Fungi_sp|KU559790|SH490656.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_465	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|KC966333|SH012589.07FU|reps_singleton|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_466	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC965234|SH023341.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_467	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Rhinocladiella_sp|KC965542|SH016648.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph-Wood Saprotroph	Probable	Facultative Yeast	Soft Rot
+OTU_468	UNITE	NA	NA	NA	Fungi_sp|AM999708|SH012599.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_469	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Cladophialophora_sp|KC222839|SH196392.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Facultative Yeast	NULL
+OTU_47	UNITE	Ascomycota	Leotiomycetes	NA	Leotiomycetes_sp|KF617370|SH024227.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_470	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KF296787|SH022467.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_471	UNITE	NA	NA	NA	Fungi_sp|HQ260210|SH023353.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_472	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Capronia_sp|EU139159|SH208596.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Endophyte	Highly Probable	Facultative Yeast	NULL
+OTU_473	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|FR682264|SH020620.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_474	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|KJ541029|SH204950.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_475	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Cladophialophora_sp|UDB027816|SH527564.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Facultative Yeast	NULL
+OTU_476	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|FJ197905|SH016651.07FU|reps_singleton|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_477	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|UDB020582|SH017976.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_478	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|KC966020|SH012610.07FU|reps_singleton|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_479	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC966354|SH023345.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_48	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KP889837|SH495002.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_480	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|FR682264|SH020620.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_481	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Exophiala_sp|EF635808|SH204695.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Undefined Saprotroph	Probable	Facultative Yeast	NULL
+OTU_482	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KF297248|SH026070.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_483	UNITE	Ascomycota	NA	NA	Ascomycota_sp|AY559349|SH022461.07FU|reps_singleton|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_484	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Cladophialophora_scillae|EU137329|SH207473.07FU|refs|	literature	Species	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_485	UNITE	Ascomycota	Pezizomycetes	Pezizales	Choiromyces_sp|JX630713|SH187054.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Gasteroid	Hypogeous
+OTU_486	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Lecanorales_sp|KC965934|SH024305.07FU|reps_singleton|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_487	UNITE	Ascomycota	Lecanoromycetes	NA	Lecanoromycetes_sp|KF297029|SH209955.07FU|reps|	literature	Class	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_488	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|KM588778|SH219205.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_489	NCBI	Ascomycota	NA	NA	Uncultured Ascomycota	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_49	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|JF449673|SH028070.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_490	UNITE	Ascomycota	Pezizomycetes	Pezizales	Pustularia_sp|KC965384|SH222143.07FU|reps|	literature	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_491	UNITE	Ascomycota	Lecanoromycetes	Peltigerales	Fuscopannaria_cheiroloba|GU570108|SH210779.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_492	UNITE	Ascomycota	Lecanoromycetes	Peltigerales	Leciophysma_finmarkicum|KC618710|SH212649.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_493	UNITE	Basidiomycota	Agaricomycetes	Auriculariales	Auricularia_sp|FJ440867|SH209796.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Plant Parasite-Wood Saprotroph	Probable	Auriculariod	NULL
+OTU_494	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Cladophialophora_sp|AY843173|SH193250.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Facultative Yeast	NULL
+OTU_495	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|HQ445290|SH186784.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_496	UNITE	Ascomycota	Lecanoromycetes	Peltigerales	Psoroma_hypnorum|GQ927296|SH189264.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_497	UNITE	Basidiomycota	Agaricomycetes	Russulales	Lactarius_hysginoides|KR090931|SH176421.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_498	UNITE	Basidiomycota	Agaricomycetes	Russulales	Lactarius_sp|FJ378819|SH086462.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_499	UNITE	Basidiomycota	Agaricomycetes	Russulales	Lactarius_lanceolatus|JX436920|SH182391.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_5	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Chaunopycnis_sp|JX457070|SH007119.07FU|reps_singleton|	FunGuild	Genus	Pathotroph	Pathotroph	Fungal Parasite	Probable	NULL	NULL
+OTU_50	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KF296725|SH028225.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_500	UNITE	Ascomycota	Lecanoromycetes	Peltigerales	Protopannaria_pezizoides|HM448802|SH189923.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_501	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|HM069467|SH211718.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_502	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_sclerotiella|JX975988|SH180116.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_503	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|JX535100|SH218119.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_504	UNITE	Rozellomycota	NA	NA	Rozellomycota_sp|HQ445276|SH204656.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_505	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|KC019918|SH180001.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_506	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GU189680|SH083578.07FU|refs_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_507	UNITE	NA	NA	NA	Fungi_sp|KP889835|SH494905.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_508	UNITE	NA	NA	NA	Fungi_sp|KC965237|SH022838.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_509	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_humilis|JN943793|SH196779.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_51	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|AM260854|SH184441.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_510	UNITE	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Kurtzmanomyces_sp|AF005061|SH177595.07FU|reps|	literature	Genus	unassigned	unassigned	NULL	NULL	yeast	NULL
+OTU_511	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Clavariaceae_sp|KM374535|SH489260.07FU|reps_singleton|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Lichenized-Undefined Saprotroph	Probable	Clavarioid	NULL
+OTU_512	UNITE	Basidiomycota	Exobasidiomycetes	Entylomatales	Entylomatales_sp|JQ910878|SH188092.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_513	UNITE	NA	NA	NA	Cercozoa_sp|HM240102|SH183251.07FU|reps|	literature	NULL	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_514	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GU189680|SH083578.07FU|refs_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_515	UNITE	NA	NA	NA	Fungi_sp|KU534747|SH630164.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_516	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_exigua|JX976070|SH180111.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_517	UNITE	Mucoromycota	Mucoromycetes	Mucorales	Mucor_hiemalis|DQ118992|SH187073.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_518	UNITE	Ascomycota	Leotiomycetes	Helotiales	Chalara_sp|JN889872|SH202695.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph-Symbiotroph	unassigned	Endophyte-Plant Pathogen-Wood Saprotroph	Probable	NULL	Soft Rot
+OTU_519	UNITE	Ascomycota	Pezizomycetes	Pezizales	Pezizaceae_sp|UDB008929|SH193724.07FU|reps|	literature	Family	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_52	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|UDB020409|SH020087.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_520	UNITE	Ascomycota	Pezizomycetes	Pezizales	Pezizaceae_sp|UDB008929|SH193724.07FU|reps|	literature	Family	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_521	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_ammiratii|UDB021475|SH304023.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_522	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_pitkinensis|UDB021469|SH135638.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_523	UNITE	Basidiomycota	NA	NA	Basidiomycota_sp|LT548260|SH493630.07FU|reps_singleton|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_524	UNITE	Ascomycota	Lecanoromycetes	Peltigerales	Peltigera_leucophlebia|FJ708981|SH208011.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_525	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_sp|FJ378756|SH188569.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_526	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_umbrinolens|UDB002564|SH188562.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_527	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_sp|UDB026205|SH188693.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_528	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_diasemospermus|UDB001230|SH188470.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_529	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_vernus|FN429004|SH094391.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_53	UNITE	Ascomycota	Leotiomycetes	NA	Leotiomycetes_sp|HQ445518|SH209860.07FU|reps|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_530	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_alpinus|DQ295081|SH183209.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_531	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_saniosus|DQ102671|SH188476.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_532	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_pseudofallax|KF048130|SH248776.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_533	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_sp|EF433992|SH188649.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_534	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_croceus|UDB021419|SH135194.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_535	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_fulvescens|AB588957|SH188481.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_536	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_pseudobovinus|UDB001463|SH094642.07FU|refs_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_537	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_decipiens|KT591589|SH188581.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_538	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_decipiens|FN428992|SH248762.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_539	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_sp|KP348220|SH523405.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_54	UNITE	Ascomycota	Leotiomycetes	Helotiales	Cadophora_finlandica|AF486119|SH214265.07FU|refs|	FunGuild	Species	Symbiotroph	Symbiotroph	Endophyte	Highly Probable	Microfungus	NULL
+OTU_540	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_gallurae|FN428979|SH188494.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_541	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_depressus|FJ553539|SH188478.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_542	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_sp|UDB026205|SH188693.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_543	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_parvannulatus|UDB016062|SH188475.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_544	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_aureomarginatus|UDB017178|SH188575.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_545	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_hemitrichus|FJ039560|SH197819.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_546	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_pinigaudis|HQ845162|SH382726.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_547	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_sp|EF655689|SH188595.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_548	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_fulvoconicus|EU821655|SH188606.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_549	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Hebeloma_nigellum|KX765786|SH628864.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_55	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|JF449673|SH028070.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_550	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Agaricales_sp|KT218487|SH215995.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_551	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Hebeloma_nigellum|KX765786|SH628864.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_552	UNITE	Chytridiomycota	NA	NA	Chytridiomycota_sp|EU517014|SH029551.07FU|reps_singleton|	literature	Phylum	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_553	UNITE	Chytridiomycota	NA	NA	Chytridiomycota_sp|EU517014|SH029551.07FU|reps_singleton|	literature	Phylum	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_554	UNITE	Chytridiomycota	NA	NA	Chytridiomycota_sp|EU517014|SH029551.07FU|reps_singleton|	literature	Phylum	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_555	NCBI	Chytridiomycota	NA	NA	Uncultured Chytridiomycota	literature	Phylum	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_556	UNITE	Chytridiomycota	NA	NA	Chytridiomycota_sp|KF297043|SH466107.07FU|reps_singleton|	literature	Phylum	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_557	UNITE	Chytridiomycota	NA	NA	Chytridiomycota_sp|EU517014|SH029551.07FU|reps_singleton|	literature	Phylum	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_558	NCBI	Chytridiomycota	NA	NA	Uncultured Chytridiomycota	literature	Phylum	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_559	NCBI	Basidiomycota	Malasseziomycetes	Malasseziales	Uncultured Malasseziales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_56	UNITE	Ascomycota	Leotiomycetes	Helotiales	Meliniomyces_bicolor|AJ430147|SH426644.07FU|refs|	FunGuild	Species	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Endophyte-Ericoid Mycorrhizal-Litter Saprotroph-Orchid Mycorrhizal	Highly Probable	Dark Septate Endophyte	NULL
+OTU_560	NCBI	Basidiomycota	Malasseziomycetes	Malasseziales	Uncultured Malasseziales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_561	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucariaceae_sp|KC965232|SH187394.07FU|reps|	literature	Family	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_562	NCBI	Basidiomycota	Exobasidiomycetes	Microstromatales	Uncultured Microstromatales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_563	UNITE	Chytridiomycota	NA	NA	Chytridiomycota_sp|DQ421284|SH472477.07FU|reps_singleton|	literature	Phylum	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_564	UNITE	Chytridiomycota	Spizellomycetes	Spizellomycetales	Powellomyces_sp|FJ827709|SH210200.07FU|reps|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	NULL	NULL
+OTU_565	UNITE	Basidiomycota	Microbotryomycetes	NA	Microbotryomycetes_sp|KF617430|SH476292.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_566	UNITE	Basidiomycota	Leucosporadiales	Leucosporidiales	Leucosporidium_drummii|FN908919|SH100809.07FU|refs|	literature	Order	Pathotroph	Pathotroph	NULL	NULL	NULL	NULL
+OTU_567	UNITE	Basidiomycota	Microbotryomycetes	Microbotryomycetes_ord_Incertae_sedis	Slooffia_pilatii|AF444598|SH191343.07FU|refs|	literature	Genus (as Rhodotorula)	Pathotroph-Saprotroph	unassigned	Animal Endosymbiont-Undefined Saprotroph	Probable	NULL	NULL
+OTU_568	UNITE	Basidiomycota	Microbotryomycetes	NA	Microbotryomycetes_sp|HM036653|SH180664.07FU|reps|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_569	UNITE	Basidiomycota	Microbotryomycetes	Microbotryomycetes_ord_Incertae_sedis	Pseudohyphozyma_buffonii|AF444526|SH199342.07FU|reps|	FunGuild	Genus (as Rhodotorula)	Pathotroph-Saprotroph	unassigned	Animal Endosymbiont-Undefined Saprotroph	Probable	NULL	NULL
+OTU_57	UNITE	Ascomycota	Leotiomycetes	Helotiales	Pezoloma_ericae|AJ319078|SH214266.07FU|refs|	FunGuild	Species	Pathotroph-Symbiotroph	unassigned	Bryophyte Parasite-Ectomycorrhizal-Ericoid Mycorrhizal	Probable	Microfungus; Dark Septate Microfungus	NULL
+OTU_570	UNITE	Basidiomycota	Microbotryomycetes	NA	Microbotryomycetes_sp|KC965576|SH019590.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_571	UNITE	Ascomycota	Leotiomycetes	Helotiales	Tetracladium_marchalianum|HG935220|SH204312.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_572	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Pleosporales_sp|KC965777|SH016224.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_573	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Pleosporales_sp|AB986470|SH491460.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_574	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Lindgomyces_apiculatus|JQ435794|SH181469.07FU|refs|	FunGuild	Species	Pathotroph	Pathotroph	Animal Pathogen	Probable	NULL	NULL
+OTU_575	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Pleosporales_sp|KC965777|SH016224.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_576	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Pleosporales_sp|KC965777|SH016224.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_577	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Pleosporales_sp|DQ182451|SH207013.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_578	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Acicuseptoria_rumicis|KF251144|SH192112.07FU|refs|	FunGuild	Species	Pathotroph	Pathotroph	Plant Pathogen	Highly Probable	Microfungus	NULL
+OTU_579	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Pleosporales_sp|EU144841|SH186943.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_58	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|UDB020857|SH000140.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_580	UNITE	NA	NA	NA	Fungi_sp|KC966116|SH008254.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_581	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeria_sp|KC966223|SH206031.07FU|reps|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	NULL	NULL
+OTU_582	UNITE	Ascomycota	Orbiliomycetes	Orbiliales	Arthrobotrys_brochopaga|EF445987|SH027911.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_583	NCBI	Ascomycota	Dothideomycetes	Pleosporales	Uncultured Pleosporales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_584	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Dictyosporium_tetrasporum|LC014551|SH495275.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Microfungus	NULL
+OTU_585	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Pleosporales_sp|EU516831|SH020266.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_587	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Arrhenia_acerosa|KC966345|SH188320.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_588	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_lateritia|UDB000267|SH189418.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_589	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|KR014371|SH496636.07FU|reps_singleton|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_59	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KF296902|SH015838.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_590	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Polyblastia_sp|EU559739|SH211172.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_591	UNITE	NA	NA	NA	Fungi_sp|KC965553|SH002232.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_592	UNITE	Ascomycota	Sordariomycetes	Coniochaetales	Lecythophora_sp|EF433985|SH181482.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Endophyte	Highly Probable	NULL	NULL
+OTU_593	UNITE	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetales_sp|KF617864|SH220712.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_594	UNITE	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetales_sp|KF617864|SH220712.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_595	UNITE	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetales_sp|KF617864|SH220712.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_596	NCBI	NA	NA	NA	Uncultured fungus	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_597	NCBI	NA	NA	NA	Uncultured fungus	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_598	NCBI	NA	NA	NA	Uncultured fungus	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_599	UNITE	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetales_sp|KF617864|SH220712.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_6	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Haptocillium_balanoides|AJ292414|SH007112.07FU|reps_singleton|	FunGuild	Genus	Pathotroph	Pathotroph	Animal Pathogen	Probable	NULL	NULL
+OTU_60	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|UDB026008|SH181080.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_600	UNITE	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaeta_sp|KC457149|SH191376.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph-Symbiotroph	unassigned	Animal Pathogen-Dung Saprotroph-Endophyte-Lichen Parasite-Plant Pathogen-Undefined Saprotroph	Possible	Microfungus	NULL
+OTU_601	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Clitocybe_sp|KC965862|SH030394.07FU|reps_singleton|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	NULL	Probable	NULL	NULL
+OTU_602	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinarius_decipiens|FN428992|SH248762.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_603	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Clavariaceae_sp|HQ211915|SH196065.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Lichenized-Undefined Saprotroph	Probable	Clavarioid	NULL
+OTU_604	UNITE	Basidiomycota	Agaricomycetes	Trechisporales	Trechisporales_sp|DQ309156|SH202429.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_605	UNITE	Ascomycota	Lecanoromycetes	Teloschistales	Bryoplaca_tetraspora|KP314328|SH462726.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_606	UNITE	NA	NA	NA	Fungi_sp|KC965602|SH030111.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_607	NCBI	Basidiomycota	Agaricomycetes	Corticales	Uncultured Corticiales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_608	NCBI	Basidiomycota	Agaricomycetes	Corticales	Uncultured Corticiales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_609	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Trichoderma_stellatum|DQ083011|SH229375.07FU|refs|	FunGuild	Genus	Pathotroph-Saprotroph-Symbiotroph	unassigned	Endophyte-Epiphyt-Fungal Parasite-Plant Pathogen-Wood Saprotroph	Possible	NULL	NULL
+OTU_61	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|UDB027290|SH198424.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_610	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellales_sp|EF675597|SH198291.07FU|reps|	literature	Order	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_611	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_parvispora|EU240133|SH193938.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_612	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellales_sp|KF297122|SH008913.07FU|reps_singleton|	literature	Order	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_613	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_horticola|HQ630322|SH379501.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_614	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_sp|JF300714|SH180124.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_615	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_jenkinii|KT965039|SH193950.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_616	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_macrocystopsis|HQ211581|SH187862.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_617	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae_sp|HQ445985|SH013070.07FU|reps_singleton|	literature	Family	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_618	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_globulifera|JN943800|SH185972.07FU|refs|	FunGuild	Species	Saprotroph	Saprotroph	Litter Saprotroph	Highly Probable	Microfungus	NULL
+OTU_619	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Stereocaulon_tomentosum|KP314457|SH640788.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_62	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae_sp|FJ005106|SH198410.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Fungal Parasite-Plant Pathogen-Wood Saprotroph	Probable	Microfungus	NULL
+OTU_620	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Lichenomphalia_grisella|GU234100|SH466268.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Agaricoid	NULL
+OTU_621	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Lichenomphalia_grisella|GU234100|SH466268.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Agaricoid	NULL
+OTU_622	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Arrhenia_velutipes|U66455|SH461977.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_623	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae_sp|HM069367|SH192597.07FU|reps|	FunGuild	Family	Pathotroph-Symbiotroph	unassigned	Endophyte-Epiphyte-Fungal Parasite-Insect Parasite	Possible	NULL	NULL
+OTU_624	UNITE	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidium_pinicola|AF444292|SH194775.07FU|refs|	FunGuild	Genus	Pathotroph	Pathotroph	Fungal Parasite	Highly Probable	Facultative Yeast	NULL
+OTU_625	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|JX981910|SH183188.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_626	UNITE	Ascomycota	Dothideomycetes	Venturiales	Venturiales_sp|GU446639|SH219611.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_627	UNITE	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerella_tassiana|EF679363|SH216250.07FU|refs|	FunGuild	Species	Pathotroph	Pathotroph	Plant Pathogen	Probable	Microfungus	NULL
+OTU_628	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|AB089662|SH203527.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_629	UNITE	Ascomycota	Dothideomycetes	NA	Dothideomycetes_sp|AM902012|SH483278.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_63	UNITE	Ascomycota	Leotiomycetes	Helotiales	Meliniomyces_bicolor|AJ430147|SH426644.07FU|refs|	FunGuild	Species	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Endophyte-Ericoid Mycorrhizal-Litter Saprotroph-Orchid Mycorrhizal	Highly Probable	Dark Septate Endophyte	NULL
+OTU_630	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|GQ924003|SH202696.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_632	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KF297153|SH022573.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_633	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Cladophialophora_sp|GU083193|SH213261.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Facultative Yeast	NULL
+OTU_634	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Knufia_peltigerae|HQ709322|SH180461.07FU|refs|	FunGuild	Species	Pathotroph	Pathotroph	Lichen Parasite	Highly Probable	Microfungus	NULL
+OTU_635	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KF296827|SH183191.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_636	UNITE	Ascomycota	Leotiomycetes	Helotiales	Meliniomyces_bicolor|AJ430147|SH426644.07FU|refs|	FunGuild	Species	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Endophyte-Ericoid Mycorrhizal-Litter Saprotroph-Orchid Mycorrhizal	Highly Probable	Dark Septate Endophyte	NULL
+OTU_637	NCBI	Ascomycota	Dothideomycetes	NA	Uncultured Dothideomycetes	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_638	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KF297153|SH022573.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_639	UNITE	Ascomycota	Leotiomycetes	Helotiales	Collophora_sp|JF449892|SH201703.07FU|reps|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Highly Probable	Microfungus	NULL
+OTU_64	UNITE	Ascomycota	Leotiomycetes	Rhytismatales	Rhytismatales_sp|UDB020725|SH000259.07FU|reps_singleton|	literature	Order	Pathotroph	Pathotroph	Plant Pathogen	NULL	NULL	NULL
+OTU_640	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC965552|SH199279.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_641	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KP963656|SH488426.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_642	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|JX981910|SH183188.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_643	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Lophiostoma_multiseptatum|LC001726|SH180716.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_644	UNITE	Ascomycota	Leotiomycetes	Thelebolales	Thelebolus_globosus|DQ028268|SH215928.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_645	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC965367|SH199280.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_646	UNITE	Ascomycota	Dothideomycetes	Capnodiales	Capnodiales_sp|UDB020788|SH019202.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_647	UNITE	NA	NA	NA	Fungi_sp|KF297147|SH005925.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_648	UNITE	Ascomycota	Lecanoromycetes	NA	Lecanoromycetes_sp|KF617838|SH459212.07FU|reps_singleton|	literature	Class	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_649	UNITE	Ascomycota	Dothideomycetes	Capnodiales	Capnodiales_sp|EU516979|SH019199.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_65	UNITE	Ascomycota	Leotiomycetes	Helotiales	Rhizoscyphus_monotropae|AB476496|SH174322.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph-Symbiotroph	unassigned	Bryophyte Parasite-Ectomycorrhizal-Ericoid Mycorrhizal-Undefined Saprotroph	Possible	Microfungus; Dark Septate Microfungus	NULL
+OTU_650	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Cladophialophora_sp|UDB027816|SH527564.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Facultative Yeast	NULL
+OTU_651	UNITE	Basidiomycota	Agaricomycetes	Russulales	Russula_purpureofusca|UDB027293|SH190565.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_652	UNITE	Ascomycota	Leotiomycetes	Helotiales	Neobulgaria_sp|HQ211803|SH216877.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_653	UNITE	NA	NA	NA	Fungi_sp|KC966238|SH022683.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_654	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Laburnicola_dactylidis|KU743203|SH630541.07FU|reps_singleton|	literature	Genus	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_655	UNITE	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae_sp|AY944138|SH193522.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_656	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Arrhenia_subglobispora|KR606032|SH197391.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_657	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae_sp|HQ212304|SH174317.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Fungal Parasite-Plant Pathogen-Wood Saprotroph	Probable	Microfungus	NULL
+OTU_658	UNITE	Ascomycota	NA	NA	Ascomycota_sp|HQ212020|SH182087.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_659	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Nectria_ramulariae|AY677291|SH202969.07FU|refs|	FunGuild	Species	Saprotroph	Saprotroph	Litter Saprotroph	Highly Probable	Microfungus	NULL
+OTU_66	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|KC966361|SH461718.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_660	UNITE	Ascomycota	Leotiomycetes	Helotiales	Phialocephala_fortinii|AY033087|SH204986.07FU|refs|	FunGuild	Species	Pathotroph-Symbiotroph	unassigned	Ericoid Mycorrhizal	Highly Probable	Dark Septate Endophyte	NULL
+OTU_661	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KC965442|SH202705.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_662	UNITE	Ascomycota	NA	NA	Ascomycota_sp|HQ212020|SH182087.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_663	UNITE	Ascomycota	NA	NA	Ascomycota_sp|HQ212020|SH182087.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_664	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|JN655575|SH211421.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_665	UNITE	Ascomycota	NA	NA	Ascomycota_sp|HQ212020|SH182087.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_666	UNITE	Ascomycota	Lecanoromycetes	NA	Lecanoromycetes_sp|KC965805|SH005235.07FU|reps_singleton|	literature	Class	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_667	UNITE	NA	NA	NA	Fungi_sp|KC965667|SH026982.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_668	UNITE	Ascomycota	NA	NA	GS37_sp|HQ445434|SH005233.07FU|reps_singleton|	literature	NA	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_669	UNITE	Ascomycota	NA	NA	Ascomycota_sp|HQ212020|SH182087.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_67	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Tomentella_sp|KC966361|SH461718.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Corticioid	NULL
+OTU_670	NCBI	NA	NA	NA	Uncultured fungus	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_671	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Embellisia_phragmospora|FJ357314|SH434817.07FU|refs|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	NULL	NULL
+OTU_672	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KC456755|SH195218.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_673	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|AY354269|SH218118.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_674	UNITE	Ascomycota	Leotiomycetes	Helotiales	Xenochalara_sp|KP889788|SH202711.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_675	UNITE	Ascomycota	Sordariomycetes	Xylariales	Xylariales_sp|KR872574|SH206687.07FU|reps|	literature	Order	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_676	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Herpotrichia_juniperi|FJ904482|SH198655.07FU|refs|	FunGuild	Species	Saprotroph	Saprotroph	Litter Saprotroph	Highly Probable	Microfungus	NULL
+OTU_677	UNITE	Ascomycota	NA	NA	Ascomycota_sp|FR871193|SH186834.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_678	UNITE	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae_sp|EF635654|SH188326.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_679	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|KC965767|SH018088.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_68	UNITE	Ascomycota	Pezizomycetes	Pezizales	Tricharina_sp|GU327420|SH024748.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_680	UNITE	NA	NA	NA	Fungi_sp|KY522961|SH628929.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_681	UNITE	Ascomycota	Leotiomycetes	Helotiales	Leohumicola_sp|FJ440887|SH201612.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_682	UNITE	Ascomycota	Lecanoromycetes	Agyriales	Agyriales_sp|KU687399|SH631539.07FU|reps_singleton|	literature	Order	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_683	UNITE	Ascomycota	Sordariomycetes	Sordariales	Trichocladium_opacum|JN995638|SH198656.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_684	UNITE	Ascomycota	Lecanoromycetes	NA	Phacidiella_podocarpi|KP004453|SH489877.07FU|refs_singleton|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Highly Probable	NULL	NULL
+OTU_685	UNITE	Ascomycota	Lecanoromycetes	Agyriales	Agyriales_sp|KU687399|SH631539.07FU|reps_singleton|	literature	Order	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_686	UNITE	Ascomycota	Dothideomycetes	NA	Dothideomycetes_sp|EU517007|SH005857.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_687	UNITE	Ascomycota	NA	NA	Ascomycota_sp|HQ212020|SH182087.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_688	UNITE	Ascomycota	NA	NA	Ascomycota_sp|KC966173|SH017610.07FU|reps_singleton|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_689	UNITE	Ascomycota	Lecanoromycetes	NA	Lecanoromycetes_sp|KC965805|SH005235.07FU|reps_singleton|	literature	Class	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_69	UNITE	Ascomycota	NA	NA	Ascomycota_sp|FM172821|SH203769.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_690	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Pleosporales_sp|KC965994|SH475074.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_691	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Pleosporales_sp|KC965994|SH475074.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_693	UNITE	Ascomycota	NA	NA	Ascomycota_sp|KC966173|SH017610.07FU|reps_singleton|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_694	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Pleosporales_sp|KC965994|SH475074.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_695	UNITE	Ascomycota	Leotiomycetes	Helotiales	Chalara_sp|FJ824635|SH019159.07FU|reps_singleton|	FunGuild	Genus	Pathotroph-Saprotroph-Symbiotroph	unassigned	Endophyte-Plant Pathogen-Wood Saprotroph	Probable	NULL	Soft Rot
+OTU_696	UNITE	Ascomycota	Saccharomycetes	NA	Saccharomycetes_sp|FJ554324|SH468291.07FU|reps_singleton|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_697	NCBI	Ascomycota	Saccharomycetes	NA	Uncultured Saccharomycetales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_698	NCBI	Ascomycota	Saccharomycetes	NA	Uncultured Saccharomycetales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_699	NCBI	Ascomycota	Saccharomycetes	NA	Uncultured Saccharomycetales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_7	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Hypocreales_sp|HQ211823|SH203173.07FU|reps|	FunGuild	Order	Saprotroph	Saprotroph	Undefined Saprotroph	Possible	Microfungus	NULL
+OTU_70	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Galerina_hygrophila|AY228347|SH176908.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Bryophyte Parasite-Leaf Saprotroph-Soil Saprotroph-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	White Rot
+OTU_700	NCBI	Ascomycota	Saccharomycetes	NA	Uncultured Saccharomycetales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_701	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Lichenomphalia_umbellifera|GU810954|SH218113.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Agaricoid	NULL
+OTU_702	NCBI	Basidiomycota	Tritirachiomycetes	Tritirachiales	Uncultured Tritirachiales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_703	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Mycobilimbia_microcarpa|AM292669|SH020771.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_704	NCBI	NA	NA	NA	Uncultured fungus	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_705	NCBI	NA	NA	NA	Uncultured fungus	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_706	NCBI	Basidiomycota	Microbotryomycetes	Sporidiobolales	Uncultured Sporidiobolales	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_707	UNITE	Basidiomycota	Microbotryomycetes	Sporidiobolales	Rhodotorula_sp|HM069380|SH176317.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Animal Endosymbiont-Undefined Saprotroph	Probable	NULL	NULL
+OTU_708	NCBI	NA	NA	NA	Uncultured fungus	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_709	UNITE	Basidiomycota	Microbotryomycetes	Microbotryomycetes_ord_Incertae_sedis	Slooffia_pilatii|AF444598|SH191343.07FU|refs|	literature	Genus (as Rhodotorula)	Pathotroph-Saprotroph	unassigned	Animal Endosymbiont-Undefined Saprotroph	Probable	NULL	NULL
+OTU_71	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Galerina_sp|KF359596|SH176957.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Bryophyte Parasite-Leaf Saprotroph-Soil Saprotroph-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	White Rot
+OTU_710	NCBI	Basidiomycota	Microbotryomycetes	Sporidiobolales	Uncultured Sporidiobolales	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_711	NCBI	Basidiomycota	Microbotryomycetes	Sporidiobolales	Uncultured Sporidiobolales	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_712	UNITE	Basidiomycota	Microbotryomycetes	Microbotryomycetes_ord_Incertae_sedis	Pseudohyphozyma_bogoriensis|AF444536|SH199340.07FU|refs|	FunGuild	Genus (as Rhodotorula)	Pathotroph-Saprotroph	unassigned	Animal Endosymbiont-Undefined Saprotroph	Probable	NULL	NULL
+OTU_713	UNITE	Basidiomycota	Microbotryomycetes	Sporidiobolales	Rhodotorula_sp|FJ820685|SH022684.07FU|reps_singleton|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Animal Endosymbiont-Undefined Saprotroph	Probable	NULL	NULL
+OTU_714	UNITE	Basidiomycota	NA	NA	Basidiomycota_sp|KJ400972|SH004907.07FU|reps_singleton|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_715	NCBI	NA	NA	NA	Uncultured fungus	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_716	NCBI	Basidiomycota	Microbotryomycetes	Sporidiobolales	Uncultured Sporidiobolales	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_717	NCBI	Basidiomycota	Microbotryomycetes	Sporidiobolales	Uncultured Sporidiobolales	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_718	UNITE	Ascomycota	NA	NA	Ascomycota_sp|AM084784|SH212970.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_719	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Clavaria_falcata|GU234148|SH185108.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Clavarioid	NULL
+OTU_72	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Galerina_hygrophila|AY228347|SH176908.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Bryophyte Parasite-Leaf Saprotroph-Soil Saprotroph-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	White Rot
+OTU_720	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Clavariaceae_sp|EU292494|SH185112.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Lichenized-Undefined Saprotroph	Probable	Clavarioid	NULL
+OTU_721	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Clavaria_falcata|GU234148|SH185108.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Clavarioid	NULL
+OTU_722	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_fimbricystis|EF434039|SH187864.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_723	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_sp|HM589383|SH185977.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_724	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellales_sp|KF617387|SH007704.07FU|reps_singleton|	literature	Order	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_725	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_sp|AF133787|SH185975.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_726	UNITE	NA	NA	NA	Fungi_sp|KF297063|SH193255.07FU|reps|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_727	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KF297156|SH193254.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_728	UNITE	NA	NA	NA	Fungi_sp|KC966353|SH012606.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_729	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|KC456680|SH193235.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_73	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucaria_humida|KM243201|SH187428.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_730	UNITE	Ascomycota	Geoglossomycetes	Geoglossales	Sarcoleotia_sp|EF434043|SH025749.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_731	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Ceratobasidium_sp|JN569114|SH220624.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph-Symbiotroph	unassigned	Endomycorrhizal-Plant Pathogen-Undefined Saprotroph	Possible	Corticioid-Microfungus	NULL
+OTU_732	UNITE	Ascomycota	Leotiomycetes	Helotiales	Dermateaceae_sp|JX852368|SH218127.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Plant Pathogen-Plant Saprotroph	Probable	Microfungus	NULL
+OTU_733	UNITE	Ascomycota	Dothideomycetes	Venturiales	Venturia_sp|AB916509|SH219634.07FU|reps|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	NULL	NULL
+OTU_734	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Sarcinomyces_sp|KU057815|SH492047.07FU|reps_singleton|	FunGuild	Species	Symbiotroph	Symbiotroph	Endophyte	Probable	NULL	NULL
+OTU_735	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Pellidiscus_pallidus|AY571054|SH465169.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_736	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Ceratobasidiaceae_sp|EU516903|SH007432.07FU|reps_singleton|	FunGuild	Family	Pathotroph-Saprotroph-Symbiotroph	unassigned	Endomycorrhizal-Plant Pathogen-Undefined Saprotroph	Possible	Microfungus	NULL
+OTU_737	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_rufoalba|HQ604809|SH197273.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_738	UNITE	Ascomycota	Leotiomycetes	Helotiales	Cryptosporiopsis_sp|FJ554419|SH211884.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_739	UNITE	Ascomycota	Leotiomycetes	Helotiales	Pezicula_heterochroma|AF141167|SH110501.07FU|refs|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Endophyte-Plant Pathogen-Undefined Saprotroph	Probable	NULL	NULL
+OTU_74	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucaria_sp|FJ664859|SH008657.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_740	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucariales_sp|KF297181|SH020706.07FU|reps_singleton|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_741	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC965145|SH029989.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_742	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucariales_sp|KC965166|SH020707.07FU|reps_singleton|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_743	UNITE	NA	NA	NA	Fungi_sp|KU559838|SH493966.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_744	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucariaceae_sp|KF296962|SH014402.07FU|reps_singleton|	literature	Family	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_745	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC965145|SH029989.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_746	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucariaceae_sp|KF296962|SH014402.07FU|reps_singleton|	literature	Family	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_747	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucariaceae_sp|KF296962|SH014402.07FU|reps_singleton|	literature	Family	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_748	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucariales_sp|KF297174|SH005247.07FU|reps_singleton|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_749	UNITE	NA	NA	NA	Fungi_sp|KC966231|SH030521.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_75	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucaria_sp|FJ664859|SH008657.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_750	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucariales_sp|KF297174|SH005247.07FU|reps_singleton|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_751	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucariaceae_sp|KF296962|SH014402.07FU|reps_singleton|	literature	Family	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_752	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacina_sp|KU176293|SH214848.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal-Orchid Mycorrhizal-Root Associated Biotroph	Possible	NULL	NULL
+OTU_753	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacina_sp|EF218815|SH214607.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal-Orchid Mycorrhizal-Root Associated Biotroph	Possible	NULL	NULL
+OTU_754	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacina_sp|HQ154311|SH214679.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal-Orchid Mycorrhizal-Root Associated Biotroph	Possible	NULL	NULL
+OTU_755	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinales_sp|DQ309111|SH179102.07FU|refs|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_756	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacina_sp|GU256183|SH214641.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal-Orchid Mycorrhizal-Root Associated Biotroph	Possible	NULL	NULL
+OTU_757	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinaceae_sp|HQ154420|SH199330.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_758	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GQ907075|SH003894.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_759	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacina_sp|HQ445474|SH214673.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal-Orchid Mycorrhizal-Root Associated Biotroph	Possible	NULL	NULL
+OTU_76	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycenella_bryophila|JF908500|SH011697.07FU|reps_singleton|	literature	Species	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_760	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|UDB002608|SH180003.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_761	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|KP889343|SH493692.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_762	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GQ907094|SH180020.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_763	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GQ907099|SH180005.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_764	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|AB669668|SH179996.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_765	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GQ907072|SH180012.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_766	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GQ907094|SH180020.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_767	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GQ907094|SH180020.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_768	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinales_sp|HQ154278|SH022847.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_769	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinaceae_sp|JQ420989|SH197534.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_77	NCBI	Ascomycota	Dothideomycetes	Botryosphaeriales	Uncultured Botryosphaeriaceae	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_770	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|KJ188515|SH180018.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_771	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GQ907137|SH003897.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_772	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|FJ553503|SH180011.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_773	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GQ907116|SH003908.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_775	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinales_sp|HQ154230|SH192978.07FU|refs|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_776	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|HQ850118|SH179094.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_777	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GQ907134|SH003899.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_778	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Serendipita_sp|GQ907110|SH003898.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Orchid Mycorrhizal	Highly Probable	NULL	NULL
+OTU_779	NCBI	NA	NA	NA	Uncultured fungus	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_78	NCBI	Ascomycota	Lecanoromycetes	NA	Uncultured Lecanorales	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_780	UNITE	Chytridiomycota	NA	NA	Chytridiomycota_sp|KF297043|SH466107.07FU|reps_singleton|	literature	Phylum	Pathotroph-Saprotroph	unassigned	NULL	NULL	NULL	NULL
+OTU_781	NCBI	Chytridiomycota	Chytridiomycetes	Rhizophydiales	Uncultured Rhizophydiales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_782	NCBI	Chytridiomycota	Chytridiomycetes	Rhizophydiales	Uncultured Rhizophydiales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_783	UNITE	NA	NA	NA	Fungi_sp|KU534747|SH630164.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_784	NCBI	Chytridiomycota	Chytridiomycetes	Rhizophydiales	Uncultured Rhizophydiales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_785	NCBI	Chytridiomycota	Chytridiomycetes	Rhizophydiales	Uncultured Rhizophydiales isolate soil	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_786	UNITE	Basidiomycota	Agaricomycetes	Corticiales	Corticium_sp|JX857752|SH185881.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	Corticioid	White Rot
+OTU_787	UNITE	Ascomycota	NA	NA	Ascomycota_sp|KC966180|SH021165.07FU|reps_singleton|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_788	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Sistotrema_sp|EU516892|SH199652.07FU|reps|	FunGuild	Genus	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Wood Saprotroph	Possible	Corticioid	White Rot
+OTU_789	UNITE	Ascomycota	Lecanoromycetes	Pertusariales	Ochrolechia_frigida|KP314449|SH196610.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_79	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Porpidia_tuberculosa|KY509524|SH024688.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_790	UNITE	Ascomycota	Geoglossomycetes	Geoglossales	Nothomitra_cinnamomea|JQ256424|SH025748.07FU|reps_singleton|	FunGuild	Genus (as Microglossum)	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_791	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycena_sp|KC965462|SH214444.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Leaf Saprotroph-Plant Pathogen-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	NULL
+OTU_792	UNITE	NA	NA	NA	Fungi_sp|KC965465|SH012146.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_793	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_obscurobadia|JF908153|SH018600.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_794	UNITE	NA	NA	NA	Fungi_sp|JX326820|SH492232.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_795	UNITE	Ascomycota	Lecanoromycetes	NA	Lecanoromycetes_sp|KC966183|SH469075.07FU|reps_singleton|	literature	Class	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_796	UNITE	NA	NA	NA	Fungi_sp|KC966191|SH462173.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_797	NCBI	Mucoromycota	Glomeromycetes	Glomerales	Uncultured Glomerales isolate soil	literature	Order	Symbiotroph	Symbiotroph	arbuscular 	NULL	NULL	NULL
+OTU_798	UNITE	Ascomycota	Pezizomycetes	Pezizales	Tuber_wenchuanense|JX267044|SH210422.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Gasteroid	Hypogeous
+OTU_799	UNITE	Ascomycota	Taphrinomycetes	Taphrinales	Taphrina_tormentillae|KX516457|SH200748.07FU|reps|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	NULL	NULL
+OTU_8	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Hypocreales_sp|EU516893|SH205447.07FU|reps|	FunGuild	Order	Saprotroph	Saprotroph	Undefined Saprotroph	Possible	Microfungus	NULL
+OTU_80	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Cladonia_subulata|FN868572|SH212223.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_800	UNITE	NA	NA	NA	Fungi_sp|KC965359|SH465484.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_801	UNITE	Ascomycota	Leotiomycetes	Helotiales	Rhexocercosporidium_panacis|DQ249992|SH186775.07FU|refs|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	NULL	NULL
+OTU_802	UNITE	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae_sp|FJ196989|SH021296.07FU|reps_singleton|	literature	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	NULL	NULL	NULL
+OTU_803	UNITE	NA	NA	NA	Cercozoa_sp|UDB027636|SH494696.07FU|reps_singleton|	literature	NULL	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_804	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Juncaceicola_sp|EU747142|SH216165.07FU|reps|	literature	Genus	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_805	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae_sp|HM172819|SH208533.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_806	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Clypeoloculus_microsporus|AB811451|SH528647.07FU|reps|	literature	Species	Saprotroph	Saprotroph	NULL	NULL	Microfungus	NULL
+OTU_807	UNITE	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae_sp|JF424333|SH204181.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_808	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Biatora_carneoalbida|AJ247568|SH211251.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_809	UNITE	Ascomycota	Orbiliomycetes	Orbiliales	Dactylella_mammillata|AY902794|SH220060.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_81	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Cladonia_acuminata|FR695863|SH212231.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_810	UNITE	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae_sp|FJ185262|SH215067.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_811	UNITE	Ascomycota	Lecanoromycetes	NA	Lecanoromycetes_sp|KP889915|SH492675.07FU|reps_singleton|	literature	Class	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_812	UNITE	Basidiomycota	Agaricomycetes	Sebacinales	Sebacina_sp|UDB008802|SH214615.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal-Orchid Mycorrhizal-Root Associated Biotroph	Possible	NULL	NULL
+OTU_813	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Lecanorales_sp|KC966060|SH024304.07FU|reps_singleton|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_814	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Biatora_subduplex|KP314332|SH024300.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_815	UNITE	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierella_horticola|AY970014|SH199633.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_816	UNITE	Ascomycota	Lecanoromycetes	Teloschistales	Teloschistales_sp|KC965134|SH020689.07FU|reps_singleton|	literature	Order	Symbiotroph	Symbiotroph	Lichenized	NULL	NULL	NULL
+OTU_817	UNITE	Ascomycota	Eutiomycetes	Eurotiales	Penicillium_swiecickii|AF033490|SH279517.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Dung Saprotroph-Undefined Saprotroph-Wood Saprotroph	Highly Probable	NULL	"Mold, Soft Rot"
+OTU_818	UNITE	Ascomycota	Lecanoromycetes	Lecideales	Bryobilimbia_hypnorum|KF683093|SH001443.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_819	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucaria_humida|KM243201|SH187428.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_82	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Cladonia_gracilis|FJ756751|SH210015.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_820	UNITE	Ascomycota	Eutiomycetes	Verrucariales	Verrucaria_lapidicola|KF819514|SH195264.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_821	UNITE	Basidiomycota	Agaricomycetes	Cantharellales	Clavulinaceae_sp|FJ553192|SH202674.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Ectomycorrhizal-Lichenized-Wood Saprotroph	Highly Probable	Clavarioid	NULL
+OTU_822	UNITE	Basidiomycota	Agaricomycetes	Russulales	Russula_emetica|UDB000300|SH218421.07FU|refs|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_823	UNITE	Basidiomycota	Agaricomycetes	NA	Agaricomycetes_sp|KF617710|SH486176.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_824	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae_sp|HF675619|SH630860.07FU|reps_singleton|	FunGuild	Family	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_825	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Clavariaceae_sp|KP257146|SH465950.07FU|reps|	FunGuild	Family	Saprotroph-Symbiotroph	unassigned	Lichenized-Undefined Saprotroph	Probable	Clavarioid	NULL
+OTU_826	UNITE	Basidiomycota	Agaricomycetes	NA	Agaricomycetes_sp|AF504871|SH203908.07FU|reps|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_827	UNITE	Basidiomycota	Agaricomycetes	Polyporales	Polyporales_sp|EF619876|SH023476.07FU|reps_singleton|	literature	Family	Saprotroph	Saprotroph	NULL	NULL	NULL	NULL
+OTU_828	UNITE	Basidiomycota	Tremellomycetes	Filobasidiales	Solicoccozyma_terricola|AF444350|SH190017.07FU|refs|	literature	Genus (as Cryptococcus)	unassigned	unassigned	Animal Pathogen Endophyte Epiphyte Undefined Saprotroph	possible	yeast	NULL
+OTU_829	UNITE	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidium_magnum|AF190008|SH382101.07FU|refs|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Highly Probable	Facultative Yeast	NULL
+OTU_83	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Cladonia_gracilis|FJ756751|SH210015.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_830	UNITE	Basidiomycota	Tremellomycetes	Filobasidiales	Naganishia_sp|EF159211|SH278439.07FU|refs|	FunGuild	Genus (as Cryptococcus)	unassigned	unassigned	Animal Pathogen Endophyte Epiphyte Undefined Saprotroph	possible	yeast	NULL
+OTU_831	UNITE	Basidiomycota	Tremellomycetes	Filobasidiales	Naganishia_liquefaciens|AF444345|SH405381.07FU|refs|	FunGuild	Genus (as Cryptococcus)	unassigned	unassigned	Animal Pathogen Endophyte Epiphyte Undefined Saprotroph	possible	yeast	NULL
+OTU_832	UNITE	Basidiomycota	Tremellomycetes	Filobasidiales	Heterocephalacria_sp|KF296901|SH026509.07FU|reps_singleton|	literature	Genus	Pathotroph	Pathotroph	Lichen Parasite	NULL	Microfungus	NULL
+OTU_833	UNITE	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Mrakiella_aquatica|AF410469|SH202459.07FU|refs|	literature	Species	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_834	UNITE	NA	NA	NA	Fungi_sp|KM504444|SH494320.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_835	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Cladonia_cervicornis_subsp._verticillata|KC776933|SH212274.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_836	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Cladonia_pyxidata|FJ756756|SH026015.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_837	UNITE	Ascomycota	Sordariomycetes	NA	Sordariomycetes_sp|HG008762|SH191150.07FU|reps|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_838	UNITE	Ascomycota	Sordariomycetes	Glomerellales	Verticillium_sp|UDB020846|SH477440.07FU|reps_singleton|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	NULL	NULL
+OTU_839	UNITE	Ascomycota	Sordariomycetes	Glomerellales	Verticillium_sp|UDB020846|SH477440.07FU|reps_singleton|	FunGuild	Genus	Pathotroph	Pathotroph	Plant Pathogen	Probable	NULL	NULL
+OTU_84	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Cladonia_polydactyla|AF453700|SH210032.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_840	UNITE	Ascomycota	Sordariomycetes	NA	Sordariomycetes_sp|HG008762|SH191150.07FU|reps|	literature	Class	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_841	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Hyphodontiella_multiseptata|KC965874|SH201099.07FU|reps|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_842	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Inocybe_sp|KX499163|SH630417.07FU|reps_singleton|	FunGuild	Genus	Symbiotroph	Symbiotroph	Ectomycorrhizal	Highly Probable	Agaricoid	NULL
+OTU_843	UNITE	Basidiomycota	Agaricomycetes	Agaricales	Mycena_septentrionalis|UDB001611|SH220756.07FU|reps|	FunGuild	Genus	Pathotroph-Saprotroph	unassigned	Leaf Saprotroph-Plant Pathogen-Undefined Saprotroph-Wood Saprotroph	Probable	Agaricoid	NULL
+OTU_844	UNITE	Ascomycota	Lecanoromycetes	Lecanorales	Lecanora_allophana|AF070014|SH223373.07FU|reps|	FunGuild	Genus	Symbiotroph	Symbiotroph	Lichenized	Highly Probable	Thallus	NULL
+OTU_85	UNITE	Ascomycota	Dothideomycetes	Venturiales	Venturiales_sp|FJ553943|SH215110.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_86	UNITE	Ascomycota	Dothideomycetes	Pleosporales	Alpinaria_rhododendri|KY189973|SH106794.07FU|refs|	FunGuild	Species	Pathotroph-Saprotroph	unassigned	Plant Pathogen-Wood Saprotroph	Probable	Microfungus	NULL
+OTU_87	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|JN225942|SH014738.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_88	UNITE	NA	NA	NA	Fungi_sp|KU559715|SH495113.07FU|reps_singleton|	literature	Kingdom	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_89	UNITE	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae_sp|KC965696|SH009225.07FU|reps_singleton|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_9	UNITE	Ascomycota	Sordariomycetes	Hypocreales	Myrothecium_sp|KC965274|SH010492.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_90	UNITE	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae_sp|EF635654|SH188326.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_91	UNITE	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae_sp|EF635654|SH188326.07FU|reps|	literature	Family	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_92	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Herpotrichiellaceae_sp|KC876148|SH213289.07FU|reps|	FunGuild	Family	Pathotroph-Saprotroph	unassigned	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Probable	Facultative Yeast-Microfungus	NULL
+OTU_93	UNITE	Ascomycota	Eutiomycetes	Chaetothyriales	Chaetothyriales_sp|KC965145|SH029989.07FU|reps_singleton|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_94	UNITE	Ascomycota	NA	NA	Ascomycota_sp|KF800449|SH193997.07FU|reps|	literature	Phylum	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_95	UNITE	Ascomycota	Dothideomycetes	Patellariales	Banhegyia_sp|HQ445436|SH024937.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_96	UNITE	Ascomycota	Sordariomycetes	Xylariales	Hemibeltrania_sp|HQ445574|SH484006.07FU|reps_singleton|	FunGuild	Genus	Saprotroph	Saprotroph	Undefined Saprotroph	Probable	NULL	NULL
+OTU_97	UNITE	Ascomycota	Leotiomycetes	Helotiales	Helotiales_sp|AY699656|SH194252.07FU|refs|	literature	Order	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_98	UNITE	NA	NA	NA	Cercozoa_sp|HM240195|SH457224.07FU|reps_singleton|	literature	NULL	unassigned	unassigned	NULL	NULL	NULL	NULL
+OTU_99	NCBI	Basidiomycota	Agaricomycetes	Corticales	Kurtia argillacea	literature	Species	Symbiotroph	Symbiotroph	NULL	NULL	NULL	NULL
+													
