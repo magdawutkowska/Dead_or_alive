@@ -6,4 +6,4 @@ Files in the repo include:
 - table with environmental data generated in this study (env.csv)
 - OTU table with functional assignment of triphic modes (tax&fun_assignments.txt)
 - bioinformatic pipeline describing all the steps in analysing the dataset (Wutkowska_2018_rDNA:rRNA_fences_bioinformatics.pdf)
-- R script with code for data analysis for this study
+- R script with code for data analysis for this study (mainscript.R)
