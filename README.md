@@ -1,5 +1,5 @@
 # Dead_or_alive
-This is a repository that contains files and data used in Wutkowska et al., (2018?), 'Dead or alive; or does it really matter? Level of congruency between trophic modes in total and active fungal communities in High Arctic soil.'
+This is a repository that contains files and data used in Wutkowska et al., (2019), 'Dead or alive; or does it really matter? Level of congruency between trophic modes in total and active fungal communities in High Arctic soil.' https://doi.org/10.3389/fmicb.2018.03243
 
 Files in the repo include:
 - mapping file for sequences generated in this study (forward_T_split_map.txt; sequencing data stored: 10.5281/zenodo.1462886)
